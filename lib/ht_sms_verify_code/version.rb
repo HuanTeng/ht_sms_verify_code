@@ -1,0 +1,3 @@
+module HtSmsVerifyCode
+  VERSION = "0.0.1"
+end
